@@ -16,3 +16,8 @@ function arrayDiff(a, b) {
   }
   return a;
 }
+
+//the best solution
+function array_diff(a, b) {
+  return a.filter(e => !b.includes(e));
+}
