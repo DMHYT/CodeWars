@@ -1,2 +1,2 @@
 # CodeWars
-Repository with my solved tests from CodeWars[https://www.codewars.com]
+Repository with my solved tests from [CodeWars](https://www.codewars.com)
